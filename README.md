@@ -1,3 +1,3 @@
 # Learning
 this is just practice
-author = imtiyaz
+author = imtiyaz patel
